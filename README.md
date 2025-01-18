@@ -15,7 +15,7 @@ Kartoninei planisferai nereikia baterijos ir interneto ryšio, tačiau naudojant
 
 #### Įvadas
 
-Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame matomos žvaigždės, matomos naktiniame danguje bet kuriuo konkrečiu metu. Sukant diską rodoma, kaip žvaigždės juda dangumi naktį ir kaip skirtingu metų laiku matomi skirtingi žvaigždynai. Planisfera yra puikus dangaus orientyras, ieškant žvaigždynų, ūkų, galaktikų ir planetų. Planisfera galima naudoti, kaip mokymo priemonę. Su planisferos pagalba galima apytiksliai nustatyti laiką arba kryptį. 
+Planisfera - tai paprastas sukamasis žvaigždėlapis, kuriame parodomos žvaigždės, matomos naktiniame danguje bet kuriuo konkrečiu metu. Sukant diską rodoma, kaip žvaigždės juda dangumi naktį ir kaip skirtingu metų laiku matomi skirtingi žvaigždynai. Planisfera yra puikus dangaus orientyras, ieškant žvaigždynų, ūkų, galaktikų ir planetų. Planisfera galima naudoti, kaip mokymo priemonę. Su planisferos pagalba galima apytiksliai nustatyti laiką arba kryptį. 
 
 Kam reikalinga kartoninė, savo rankomis suklijuota planisfera, kai telefone yra daugybė žvaigždėlapio programėlių? Jeigu jums kyla toks klausimas - šis Github kampelis yra ne jums, negaiškite čia savo brangaus laiko.
 
