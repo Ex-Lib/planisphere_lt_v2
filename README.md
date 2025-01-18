@@ -6,7 +6,7 @@ This repository contains Python scripts that can be used to produce a cardboard 
 
 ### Skirtumai nuo V.1:
 
-Skirtumai nuo V.1 (<https://github.com/Ex-Lib/planisphere_lt_v1>): Kad pagreitinti planisferų generavimą paliktos tik trys kalbos (anglų, lietuvių ir ispanų); Platumų, kurioms generuojamos planisferos, intervalas yra nuo 52°N pietuose iki 56°N šiaurėje; Planisferos generuojamos kas 1°, o ne 5°.
+Skirtumai nuo V.1 (<https://github.com/Ex-Lib/planisphere_lt_v1>): Kad pagreitinti planisferų generavimą yra paliktos tik trys kalbos (anglų, lietuvių ir ispanų); Platumų, kurioms generuojamos planisferos, intervalas yra nuo 52°N pietuose iki 56°N šiaurėje; Planisferos generuojamos kas 1°, o ne 5°.
 
 #### Pasigaminkite kartoninį sukamojo žvaigždėlapio (planisferos) modelį V.2
 
