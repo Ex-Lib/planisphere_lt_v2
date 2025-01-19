@@ -1,6 +1,6 @@
 #### Planisphere generator with the option of Lithuanian language
 
-This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere for latitudes from 52°N to 56°N in Lithuanianan language (as well as English and Spanish). This is reduced version of V.1 <https://github.com/Ex-Lib/planisphere_lt_v1>, V.1 is a fork from <https://github.com/dcf21/planisphere>. This code was developed by Dominic Ford <https://dcford.org.uk>.
+This repository contains Python scripts that can be used to produce a cardboard cut-and-glue kit to make your own model planisphere for latitudes from 52°N to 56°N in Lithuanian language (as well as English and Spanish). This is reduced version of V.1 <https://github.com/Ex-Lib/planisphere_lt_v1>, V.1 is a fork from <https://github.com/dcf21/planisphere>. This code was developed by Dominic Ford <https://dcford.org.uk>.
 
 ### Sukamasis žvaigždėlapis (planisfera) lietuvių kalba V.2
 
